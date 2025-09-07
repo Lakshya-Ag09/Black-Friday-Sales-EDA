@@ -1,0 +1,10 @@
+# Core scientific libraries
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter environment
+ipykernel
