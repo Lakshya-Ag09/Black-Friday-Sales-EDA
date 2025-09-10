@@ -22,7 +22,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** on the **Black F
 ---
 
 ## Project Structure
-
+```
 .
 ├── data/ # Dataset files
 │ └── train.csv
@@ -34,7 +34,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** on the **Black F
 │ ├── multivariate/
 │ └── heatmaps/
 └── README.md
-
+```
 ---
 
 ## Libraries Used
